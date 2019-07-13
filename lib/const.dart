@@ -1,0 +1,4 @@
+enum AppThemeStyle {
+  bright,
+  dark
+}
